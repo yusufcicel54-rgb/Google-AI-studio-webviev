@@ -1,5 +1,8 @@
 # Google-AI-studio-webviev
 # ⚡ Google AI Studio Mobile (Unofficial)
+<p align="center">
+  <img src="Screenshot_20261013-183646.png" width="280" alt="App Preview" />
+</p>
 
 A blazing-fast, buttery-smooth Android client for **Google AI Studio**, built with Mozilla's **GeckoView** engine.
 
