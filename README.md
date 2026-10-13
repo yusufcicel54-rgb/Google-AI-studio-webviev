@@ -1,4 +1,4 @@
-# Google-AI-studio-webviev
+
 # ⚡ Google AI Studio Mobile (Unofficial)
 <p align="center">
   <img src="Screenshot_20261013-183646.png" width="280" alt="App Preview" />
@@ -26,6 +26,10 @@ Unlike generic Android WebView apps that rely on your system's Chromium (which G
 You are basically carrying a dedicated, optimized browser engine tuned specifically to run AI Studio with 100% compatibility. Quality requires megabytes, baby.
 
 *(Note: We provide both Universal and architecture-specific `arm64-v8a` builds in Releases).*
+### 🛡️ VirusTotal Verified (0/67 Clean)
+<p align="center">
+  <img src="Screenshot_20261013-183646.png" width="500" alt="VirusTotal Clean Scan" />
+</p>
 
 ---
 
