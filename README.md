@@ -51,3 +51,15 @@ This is an **unofficial**, open-source community project. It is **not** affiliat
 ## 📜 License
 
 MIT License. Free to fork, build, and improve.
+---
+
+## 🔍 Frequently Asked Questions (FAQ)
+
+### How to use Google AI Studio on Android?
+Google AI Studio does not have an official Android app. However, you can use this unofficial **Google AI Studio Mobile APK**, which is powered by Mozilla's GeckoView engine, providing a fast, full desktop/mobile experience without browser limitations.
+
+### Why does Google AI Studio fail to log in on standard Android WebViews?
+Standard Android WebViews trigger Google's `disallowed_useragent` security policy. This client solves the problem by integrating **Mozilla GeckoView**, running an isolated Firefox engine that allows native and secure Google Account authentication.
+
+### Where can I download the Google AI Studio Android APK?
+You can safely download the latest verified `.apk` directly from the [Releases section](https://github.com/yusufcicel54-rgb/Google-AI-studio-webviev/releases). All builds are scanned and verified 100% clean on VirusTotal.
